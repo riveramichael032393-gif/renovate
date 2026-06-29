@@ -12,7 +12,7 @@ It analyzes test and release adoption data from the Mend Renovate App users.
 
 ## Pull request badges
 
-Merge Confidence adds the following badges to your pull requests:
+Merge Confidence adds the following badges to your pull requests:j
 
 - **Age**: The age of the package
 - **Adoption**: The percentage of this package's users (within Renovate) which are using this release
